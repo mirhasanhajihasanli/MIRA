@@ -2,7 +2,7 @@
 #
 # MIRA - Automated Setup Script
 # Complete local uncensored AI environment for web security testing, pentesting, and hacking
-# MIRA - Machine Intelligence Reasoning Automation
+# MIRA - Machine Intelligence Reasoning Automation by Mirhasan HAJI HASANLI
 #
 # Target: Ubuntu 22.04 / 24.04 LTS
 # Run:   bash mira.sh

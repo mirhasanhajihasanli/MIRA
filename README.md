@@ -13,7 +13,7 @@ It combines:
 
 ```bash
 # Download and run
-wget https://raw.githubusercontent.com/mirhasanhajihasanli/mira/main/mira.sh
+wget https://raw.githubusercontent.com/mirhasanhajihasanli/MIRA/main/mira.sh
 bash mira.sh
 ```
 
